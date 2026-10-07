@@ -1,0 +1,17 @@
+﻿{
+  "Name": "RPABotPendingCloseAll",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "TJjqrQyXQ0iWx-tWMUuXew",
+  "Reference": "YjEgwPpWi0aC03r9C4SzIQ/TJjqrQyXQ0iWx-tWMUuXew",
+  "ParentRef": "YjEgwPpWi0aC03r9C4SzIQ/fAnaW2aB_0yT781x1rTBvg",
+  "Created": "2026-09-30T09:34:55.9105111Z",
+  "Updated": "2026-09-30T09:36:41.5772429Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

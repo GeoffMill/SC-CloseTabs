@@ -1,0 +1,13 @@
+﻿{
+  "Name": "IntClose-SaveChangeYes",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "r5o2a5dqmkuceb6GXKukSQ",
+  "Reference": "YjEgwPpWi0aC03r9C4SzIQ/r5o2a5dqmkuceb6GXKukSQ",
+  "ParentRef": "YjEgwPpWi0aC03r9C4SzIQ/fAnaW2aB_0yT781x1rTBvg",
+  "Created": "2026-09-30T09:39:44.8389313Z",
+  "Updated": "2026-09-30T09:39:44.8389313Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

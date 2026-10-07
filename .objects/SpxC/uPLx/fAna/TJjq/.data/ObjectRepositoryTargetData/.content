@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="J9yg8ffp3UaPPfubX5Q_Ig" Reference="o8q7xmvUokq2eIo5Q598-g/NIihRCVXAUqBP36hDBVujg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="icumed--tst1.custhelp.com/AgentWeb" CVScreenId="e8dd56af-cebf-42cd-af36-427369a4cc24" DesignTimeRectangle="211, 216, 51, 33" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzyAccuracy="0.8" FuzzySelectorArgument="&lt;webctrl tag='SPAN' aaname='Close All' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' innertext='Close All' check:innerText='Close All' /&gt;" Guid="2cac9ce7-e683-4558-ac4d-b1525e70c1c5" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Oracle ® Service Cloud*' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e8dd56af-cebf-42cd-af36-427369a4cc24" DesignTimeRectangle="211, 256, 104, 33" ElementType="Text" FuzzyAccuracy="0.8" FuzzySelectorArgument="&lt;webctrl aaname='Close All But This' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' tag='SPAN' innertext='Close All But This' check:innerText='Close All But This' /&gt;" Guid="fa25b1f3-1f8a-4843-a3bc-8b0c380e8c74" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1c330546c1ebe4337341726f567153d8.jpg" xmlns="">0ZtLGchisfUmxf6bZ5uS-sw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

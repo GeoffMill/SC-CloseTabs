@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7AcQXkK0lkKZcpfmWQSpgQ" Reference="o8q7xmvUokq2eIo5Q598-g/UlEmOvETlEuGNR8PoIG3NQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="icumed--tst1.custhelp.com/AgentWeb" CVScreenId="113b0087-98fd-4f9a-9b42-3a20b7d3e27c" CvElementArea="1618, 219, 35, 34" CvType="Icon" DesignTimeRectangle="1696, 140, 35, 26" ElementVisibilityArgument="Interactive" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl isleaf='1' matching:isleaf='fuzzy' fuzzylevel:isleaf='0.0' parentid='homeMenuItem' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='SPAN' type='' class='home-icon' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="2bc750ad-ac35-4c9b-8f0b-d7bbb734e3f9" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACwAAAAiCAYAAAAkjjtxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAEUSURBVFhH7ZU9CsJAEEa9S0DwFKlygVzCXmJtJ1h4Ba0DKQTvkEqwFgwIESysYpVC+CQ/EhNmZZPMgsEZeNUOs2++EHY0GVsYEiJsGhE2jRlhd43AX8ClznrCLGzD24a4p8grvYbYzGyirzt8wu4C+1NSmH7WM0G040ubQbiealEJ4mtdnivtfsJEquntLUYswpB2R+FCJtaRoZbK0p42+jRpL6wS+Pq51Qs6ZL+aFsItUlXBkLaesNMlVRX90tYTXoZ4lLM5fpycZtpJiBXV16C1cLzjfAhs7C/lYFPCUUCc9yCIysEiXM4VYRHOEOEKEc4R4QoRzhmysLH6b+G5j+PpjMgkBx8edXcDPeEfQoTNYuEFEyWvSalO6t8AAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Oracle ® Service Cloud*' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1626, 136, 28, 35" ElementType="Button" FuzzyAccuracy="0.8" FuzzySelectorArgument="&lt;webctrl id='quickSearchSearchButton' tag='BUTTON' type='' class='quick-search-search-button' aaname='Search' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="9575c948-f90c-46a7-b923-254e8b409391" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fbd5d649c0ca6a3caee1d6c7e9a4643c.jpg" xmlns="">0AAmMXvLVBUWJj8Ezq9AvwA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iSC0RGQvuE-NWxOjWYbz1A" Reference="o8q7xmvUokq2eIo5Q598-g/xG2yQKyWQ0-XDqTBXdNGFA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="icumed--tst1.custhelp.com/AgentWeb" CVScreenId="87fde48c-ccea-40e9-81aa-0381461b56ab" DesignTimeRectangle="82, 196, 150, 48" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='SPAN' aaname='RPA BOT Pending' innertext='RPA BOT Pending' /&gt;" Guid="78547c00-f2d8-4dc2-947c-80ad4758af69" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Oracle ® Service Cloud*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="3843cba0049c67f7d5980e774ba388a2.jpg" xmlns="">09sGMzw_fG0KPpWWEczpLCw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

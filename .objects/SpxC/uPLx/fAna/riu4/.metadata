@@ -1,0 +1,17 @@
+﻿{
+  "Name": "HomeIcon",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "riu4oxDzK0G6WlusVD3y8g",
+  "Reference": "YjEgwPpWi0aC03r9C4SzIQ/riu4oxDzK0G6WlusVD3y8g",
+  "ParentRef": "YjEgwPpWi0aC03r9C4SzIQ/fAnaW2aB_0yT781x1rTBvg",
+  "Created": "2026-09-30T09:32:25.9446651Z",
+  "Updated": "2026-09-30T09:32:45.3009313Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

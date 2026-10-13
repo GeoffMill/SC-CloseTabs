@@ -1,0 +1,16 @@
+﻿{
+  "Name": "OSvC",
+  "Type": "Screen",
+  "Id": "fAnaW2aB_0yT781x1rTBvg",
+  "Reference": "YjEgwPpWi0aC03r9C4SzIQ/fAnaW2aB_0yT781x1rTBvg",
+  "ParentRef": "YjEgwPpWi0aC03r9C4SzIQ/uPLxI_KJJUeGgjjgntfmmA",
+  "Created": "2026-09-30T09:20:49.0105318Z",
+  "Updated": "2026-09-30T09:32:40.2433122Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

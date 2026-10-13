@@ -1,0 +1,17 @@
+﻿{
+  "Name": "RPABotPendingTab",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "yOzCrHpxnkKoyjP7CUXfyQ",
+  "Reference": "YjEgwPpWi0aC03r9C4SzIQ/yOzCrHpxnkKoyjP7CUXfyQ",
+  "ParentRef": "YjEgwPpWi0aC03r9C4SzIQ/fAnaW2aB_0yT781x1rTBvg",
+  "Created": "2026-09-30T09:33:23.0570934Z",
+  "Updated": "2026-09-30T09:33:41.4841523Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
